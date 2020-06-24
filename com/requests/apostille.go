@@ -3,7 +3,7 @@ package requests
 import (
 	"errors"
 	"fmt"
-	"github.com/isarq/nem-sdk-go/model"
+	"github.com/zenghq3/nem-sdk-go/model"
 	"io/ioutil"
 	"net/http"
 	"strings"

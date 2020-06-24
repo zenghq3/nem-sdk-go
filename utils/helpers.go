@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/extras"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/extras"
 	"log"
 	"math"
 	"regexp"

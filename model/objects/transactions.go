@@ -1,8 +1,8 @@
 package objects
 
 import (
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/model/transactions"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/model/transactions"
 	"strings"
 )
 

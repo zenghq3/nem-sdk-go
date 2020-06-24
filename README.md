@@ -1,5 +1,5 @@
 # Nem-sdk-go 
-![N|Solid](https://github.com/isarq/nem-sdk-go/blob/master/assets/tipo.jpg)
+![N|Solid](https://github.com/zenghq3/nem-sdk-go/blob/master/assets/tipo.jpg)
 
 NEM Developer Kit for Golang based on https://github.com/QuantumMechanics/NEM-sdk
 
@@ -61,7 +61,7 @@ NEM Developer Kit for Golang based on https://github.com/QuantumMechanics/NEM-sd
 ### Installation
 
 ```sh
-$ go get -u github.com/isarq/nem-sdk-go
+$ go get -u github.com/zenghq3/nem-sdk-go
 ```
 
 ### Development

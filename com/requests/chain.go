@@ -3,14 +3,14 @@ package requests
 import (
 	"encoding/json"
 	"errors"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/zenghq3/nem-sdk-go/utils"
 	"io/ioutil"
 	"net/http"
 	"net/url"
 	"strings"
 	"time"
 
-	. "github.com/isarq/nem-sdk-go/base"
+	. "github.com/zenghq3/nem-sdk-go/base"
 )
 
 // BlockHeight contains a chain height

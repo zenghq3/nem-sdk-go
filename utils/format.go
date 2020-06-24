@@ -3,8 +3,8 @@ package utils
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/extras"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/extras"
 )
 
 // Convert a public key to NEM address

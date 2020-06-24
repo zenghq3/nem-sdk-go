@@ -4,8 +4,8 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/extras"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/extras"
 	"math"
 	"sort"
 )

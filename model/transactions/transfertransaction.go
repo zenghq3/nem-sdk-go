@@ -6,11 +6,11 @@ import (
 	"math"
 	"strings"
 
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/com/requests"
-	"github.com/isarq/nem-sdk-go/extras"
-	"github.com/isarq/nem-sdk-go/model"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/com/requests"
+	"github.com/zenghq3/nem-sdk-go/extras"
+	"github.com/zenghq3/nem-sdk-go/model"
+	"github.com/zenghq3/nem-sdk-go/utils"
 )
 
 type txPrepare struct {

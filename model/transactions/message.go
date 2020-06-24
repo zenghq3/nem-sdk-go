@@ -1,8 +1,8 @@
 package transactions
 
 import (
-	"github.com/isarq/nem-sdk-go/base"
-	"github.com/isarq/nem-sdk-go/utils"
+	"github.com/zenghq3/nem-sdk-go/base"
+	"github.com/zenghq3/nem-sdk-go/utils"
 )
 
 // Prepare a message struct
